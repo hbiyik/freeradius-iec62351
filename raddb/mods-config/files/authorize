@@ -1,0 +1,8 @@
+sadmin    Cleartext-Password := "test"
+          IEC62351-RoleID = -31648,
+          IEC62351-roleDefinition = "SiemensGridSecurity",
+          IEC62351-AoR = "*",
+          IEC62351-revision = 0,
+          IEC62351-ValidFrom = "00000000000000Z",
+          IEC62351-ValidTo = "99991231235959Z"
+

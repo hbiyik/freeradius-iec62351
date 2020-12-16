@@ -1,0 +1,1 @@
+docker run -it --network host -v /home/boogie/src/62351-radius/raddb/mods-config/files/authorize:/etc/raddb/mods-config/files/authorize -v /home/boogie/src/62351-radius/raddb/clients.conf:/etc/raddb/clients.conf -v /home/boogie/src/62351-radius/raddb/dictionary:/etc/freeradius/dictionary freeradius/freeradius-server freeradius -X
